@@ -1,0 +1,12 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Video files and output videos (optional)
+*.mp4
+output.mp4
+
+# Environment folders
+.env/
+venv/
